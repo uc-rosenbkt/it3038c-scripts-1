@@ -10,7 +10,7 @@ getHostnameBYIP(sys.argv[1])
 
 hosts = ['www.uc.edu', 'www.google.com', 'www.reddit.com']
 
-#print ('Working from host: ' + socket.getfqdn())
+##print ('Working from host: ' + socket.getfqdn())
 for h in hosts:
     print (h + ": " + socket.gethostbyname(h))
 
