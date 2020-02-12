@@ -1,0 +1,6 @@
+Max Sayers
+Project 1
+
+The script has been added to crontab to run every morning at 7:00 AM.
+
+To run the script otherwise, execute the following ./weather.sh
