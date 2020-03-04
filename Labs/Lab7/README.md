@@ -1,11 +1,11 @@
-#Lab 7
+# Lab 7
 
 This is how to run Python scripts to return various NBA stats from basketballreference.com using a package called basketball-reference-scraper.
 ##To install the package in Powershell run the following
 ```
 pip install basketball-reference-scraper
 ```
-###Now we are ready to script with Python
+### Now we are ready to script with Python
 
 The first piece of information we are going to gather is an NBA roster. You need to import get_roster from basketball_reference_scraper.teams and then specify which team and year you want to see. Below I print out the 2016 Cleveland Cavaliers Roster.
 ```
