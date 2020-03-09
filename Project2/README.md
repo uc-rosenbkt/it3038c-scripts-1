@@ -38,6 +38,8 @@ The else section of the loop uses time.sleep to have emulate time for cacluation
             time.sleep(1)
             print(num)
 ```
+
+After that, you can determine the prime numbers between any two numbers!
             
             
             
