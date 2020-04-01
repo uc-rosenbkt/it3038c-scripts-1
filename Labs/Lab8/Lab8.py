@@ -1,3 +1,4 @@
+#This script is meant to scrape the name, color, and price of a shoe on nike.com
 import requests, re
 from bs4 import BeautifulSoup
 
