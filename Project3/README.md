@@ -71,7 +71,7 @@ Please enter day of month:
 31
 Please enter year:
 2019
-The leading scorer on 10/30/2019 was Kawhi Leonard with 30 points.
+The leading scorer on 10/31/2019 was Kawhi Leonard with 38 points.
 Would you like to enter another date?
 
 ```
