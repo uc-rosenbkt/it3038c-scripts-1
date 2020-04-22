@@ -49,7 +49,7 @@ def leadingScorer ():
             print('No games played on this date. Please enter a new date.')
             # Delay before asking for the date again
             time.sleep(1)
-# End of function
+# Rerun of funciton after exception
 leadingScorer()
 
 # While loop to run the script again
